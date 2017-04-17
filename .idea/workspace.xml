@@ -1,0 +1,3397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/game/GameObject/GameObject.java" line="210" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/src/game/GameObject/Individual/Monster.java" line="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee440c97-afe2-4c59-b08b-8e65411da317" name="Default" comment="" />
+    <ignored path="Bomberman(New).iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Bomberman(New)">
+      <favorite_root url="file://$PROJECT_DIR$/src/game/Game.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="World.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2080">
+              <caret line="143" column="94" lean-forward="false" selection-start-line="143" selection-start-column="94" selection-end-line="143" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/graphics/Animation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/game" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/game">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>game</OriginalElement>
+              <nodes>
+                <node x="1162.0" y="1520.0">game.Controller.AIAction</node>
+                <node x="392.94762250830513" y="188.0">game.GameObject.Individual.Directions</node>
+                <node x="663.2341609698435" y="584.0">game.GameObject.Individual.Bomberman</node>
+                <node x="850.0" y="1520.0">game.Constants</node>
+                <node x="1149.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastRight</node>
+                <node x="1229.215692084078" y="0.0">game.GameObject.GameObject</node>
+                <node x="1006.0" y="1520.0">game.Utilities.Utilities</node>
+                <node x="636.2097397031256" y="188.0">game.GameObject.Individual.Individual</node>
+                <node x="208.69762250830513" y="673.0">game.GameObject.Individual.Dall</node>
+                <node x="643.868508284352" y="1278.0">game.Holder</node>
+                <node x="1303.7056254791723" y="188.0">game.GameObject.Object.item.LifeBoost</node>
+                <node x="327.25833333333344" y="921.0">game.Controller.Keyboard</node>
+                <node x="1136.7056254791723" y="188.0">game.GameObject.Object.item.BombRangeBoost</node>
+                <node x="998.7056254791723" y="188.0">game.GameObject.Object.item.SpeedBoost</node>
+                <node x="255.78100828435197" y="584.0">game.GameObject.Individual.Smart</node>
+                <node x="10.5" y="673.0">game.Controller.MenuAction</node>
+                <node x="114.77267495101853" y="1446.0">game.states.SettingState</node>
+                <node x="867.7056254791723" y="188.0">game.GameObject.Object.item.BombBoost</node>
+                <node x="792.3040852074289" y="673.0">game.GameObject.GameObjectManager</node>
+                <node x="156.17500000000007" y="772.0">game.View</node>
+                <node x="1032.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastUp</node>
+                <node x="0.0" y="1520.0">game.tiles.TileFloor</node>
+                <node x="901.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastLeft</node>
+                <node x="1135.1550467458906" y="505.0">game.GameObject.Object.Bomb</node>
+                <node x="156.0" y="1520.0">game.graphics.SpriteSheet</node>
+                <node x="21.0" y="772.0">game.Controller.MenuKey</node>
+                <node x="74.6875" y="1000.0">game.states.MenuState</node>
+                <node x="680.0" y="1520.0">game.graphics.ImageLoader</node>
+                <node x="503.0" y="1520.0">game.Controller.AIController</node>
+                <node x="3.5" y="1678.0">game.tiles.TileWall</node>
+                <node x="173.5" y="1599.0">game.resources.Assets</node>
+                <node x="215.88512250830513" y="99.0">game.graphics.Animation</node>
+                <node x="1231.2556254791723" y="99.0">game.GameObject.Object.item.Item</node>
+                <node x="1435.7056254791723" y="188.0">game.GameObject.Object.Portal</node>
+                <node x="392.94762250830513" y="406.0">game.GameObject.Individual.Monster</node>
+                <node x="562.9073717948718" y="772.0">game.World</node>
+                <node x="410.8916666666669" y="1000.0">game.graphics.Camera</node>
+                <node x="1287.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastDown</node>
+                <node x="139.27267495101853" y="1367.0">game.states.State</node>
+                <node x="1201.354580972967" y="317.0">game.GameObject.Object.Blast.Blast</node>
+                <node x="390.17500000000007" y="772.0">game.Controller.Action</node>
+                <node x="308.15933773106707" y="1119.0">game.Game</node>
+                <node x="17.5" y="1599.0">game.tiles.Tile</node>
+                <node x="569.6573717948719" y="1000.0">game.Collision</node>
+                <node x="252.17500000000007" y="772.0">game.Controller.Controller</node>
+                <node x="274.94762250830513" y="505.0">game.GameObject.Individual.Ballons</node>
+                <node x="523.1323717948717" y="317.0">game.Node</node>
+                <node x="619.0573717948719" y="673.0">game.GameObject.Object.Brick</node>
+                <node x="1600.761181034728" y="99.0">game.GameObject.Object.Object</node>
+                <node x="27.8125" y="921.0">game.states.GameState</node>
+                <node x="326.0" y="1520.0">game.SoundManager</node>
+                <node x="1418.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastCenter</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="game.GameObject.Individual.Ballons" target="game.graphics.Animation">
+                  <point x="-24.25" y="-14.5" />
+                  <point x="299.19762250830513" y="168.0" />
+                  <point x="280.63512250830513" y="168.0" />
+                  <point x="9.25" y="14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.GameObjectManager">
+                  <point x="29.049999999999955" y="-14.5" />
+                  <point x="633.4573717948717" y="742.0" />
+                  <point x="820.1374185407622" y="742.0" />
+                  <point x="-55.66666666666674" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.SpeedBoost" target="game.GameObject.Object.item.Item">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1057.7056254791723" y="158.0" />
+                  <point x="1254.0556254791722" y="158.0" />
+                  <point x="-15.200000000000045" y="14.5" />
+                </edge>
+                <edge source="game.Controller.Keyboard" target="game.Controller.Controller">
+                  <point x="-34.66666666666674" y="-14.5" />
+                  <point x="344.5916666666667" y="871.0" />
+                  <point x="311.17500000000007" y="871.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Monster" target="game.GameObject.Individual.Directions">
+                  <point x="-12.125" y="-14.5" />
+                  <point x="429.32262250830513" y="386.0" />
+                  <point x="440.63512250830513" y="386.0" />
+                  <point x="440.63512250830513" y="297.0" />
+                  <point x="451.94762250830513" y="297.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.Controller.MenuKey">
+                  <point x="-27.75" y="-14.5" />
+                  <point x="55.5625" y="851.0" />
+                  <point x="81.625" y="851.0" />
+                  <point x="12.125" y="14.5" />
+                </edge>
+                <edge source="game.Node" target="game.GameObject.Individual.Directions">
+                  <point x="0.0" y="-14.5" />
+                  <point x="561.1323717948717" y="287.0" />
+                  <point x="491.2809558416384" y="287.0" />
+                  <point x="39.33333333333326" y="14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.states.MenuState">
+                  <point x="37.0" y="14.5" />
+                  <point x="120.3125" y="980.0" />
+                  <point x="116.3125" y="980.0" />
+                  <point x="-13.875" y="-14.5" />
+                </edge>
+                <edge source="game.World" target="game.Node">
+                  <point x="-12.450000000000045" y="-14.5" />
+                  <point x="591.9573717948717" y="722.0" />
+                  <point x="586.4351225083051" y="722.0" />
+                  <point x="586.4351225083051" y="386.0" />
+                  <point x="576.3323717948717" y="386.0" />
+                  <point x="15.200000000000045" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Bomberman" target="game.graphics.Animation">
+                  <point x="-36.999999999999886" y="-14.5" />
+                  <point x="681.7341609698436" y="554.0" />
+                  <point x="382.44762250830513" y="554.0" />
+                  <point x="382.44762250830513" y="158.0" />
+                  <point x="299.13512250830513" y="158.0" />
+                  <point x="27.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.Item" target="game.GameObject.GameObject">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1269.2556254791723" y="79.0" />
+                  <point x="1288.215692084078" y="79.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.BombRangeBoost" target="game.GameObject.Object.item.Item">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1209.7056254791723" y="168.0" />
+                  <point x="1269.2556254791723" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastLeft">
+                  <point x="-21.714285714285722" y="-14.5" />
+                  <point x="1151.4407610316048" y="475.0" />
+                  <point x="957.3984466841293" y="475.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Individual" target="game.GameObject.GameObject">
+                  <point x="29.5" y="-14.5" />
+                  <point x="724.7097397031256" y="59.0" />
+                  <point x="1254.5014063697922" y="59.0" />
+                  <point x="-33.714285714285666" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastUp">
+                  <point x="-10.857142857142833" y="-14.5" />
+                  <point x="1162.2979038887477" y="465.0" />
+                  <point x="1081.3984466841293" y="465.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.State" target="game.Holder">
+                  <point x="33.200000000000045" y="-14.5" />
+                  <point x="213.97267495101858" y="1347.0" />
+                  <point x="688.868508284352" y="1347.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.BlastRight" target="game.GameObject.Object.Blast.Blast">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1208.8984466841293" y="386.0" />
+                  <point x="1242.854580972967" y="386.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.LifeBoost" target="game.GameObject.Object.item.Item">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1359.2056254791723" y="168.0" />
+                  <point x="1299.6556254791722" y="168.0" />
+                  <point x="30.399999999999977" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.Object">
+                  <point x="27.66666666666663" y="-14.5" />
+                  <point x="1270.5212476396337" y="287.0" />
+                  <point x="1425.2056254791723" y="287.0" />
+                  <point x="1425.2056254791723" y="158.0" />
+                  <point x="1612.011181034728" y="158.0" />
+                  <point x="-33.75" y="14.5" />
+                </edge>
+                <edge source="game.graphics.Camera" target="game.Holder">
+                  <point x="30.0" y="14.5" />
+                  <point x="485.8916666666669" y="1089.0" />
+                  <point x="470.42101009455683" y="1089.0" />
+                  <point x="470.42101009455683" y="1218.0" />
+                  <point x="668.0992775151212" y="1218.0" />
+                  <point x="-20.769230769230717" y="-14.5" />
+                </edge>
+                <edge source="game.Game" target="game.states.State">
+                  <point x="-28.5" y="14.5" />
+                  <point x="317.65933773106707" y="1258.0" />
+                  <point x="347.40600828435197" y="1258.0" />
+                  <point x="347.40600828435197" y="1337.0" />
+                  <point x="197.37267495101844" y="1337.0" />
+                  <point x="16.59999999999991" y="-14.5" />
+                </edge>
+                <edge source="game.tiles.Tile" target="game.tiles.TileFloor">
+                  <point x="-19.0" y="-14.5" />
+                  <point x="36.5" y="1574.0" />
+                  <point x="27.75" y="1574.0" />
+                  <point x="-27.75" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.Controller.Keyboard">
+                  <point x="3.7999999999999545" y="-14.5" />
+                  <point x="349.959337731067" y="1059.0" />
+                  <point x="392.79166666666674" y="1059.0" />
+                  <point x="392.79166666666674" y="980.0" />
+                  <point x="379.25833333333344" y="980.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.GameObjectManager" target="game.Holder">
+                  <point x="55.66666666666674" y="14.5" />
+                  <point x="931.4707518740956" y="1238.0" />
+                  <point x="716.5608159766596" y="1238.0" />
+                  <point x="27.692307692307622" y="-14.5" />
+                </edge>
+                <edge source="game.resources.Assets" target="game.graphics.SpriteSheet">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Object">
+                  <point x="32.571428571428555" y="-14.5" />
+                  <point x="1205.726475317319" y="485.0" />
+                  <point x="1662.761181034728" y="485.0" />
+                  <point x="1662.761181034728" y="168.0" />
+                  <point x="1657.011181034728" y="168.0" />
+                  <point x="11.25" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Smart" target="game.GameObject.Individual.Ballons">
+                  <point x="10.375" y="-14.5" />
+                  <point x="307.65600828435197" y="564.0" />
+                  <point x="299.19762250830513" y="564.0" />
+                  <point x="-24.25" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.BombBoost">
+                  <point x="-18.444444444444457" y="-14.5" />
+                  <point x="1224.4101365285223" y="257.0" />
+                  <point x="923.2056254791723" y="257.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.GameObjectManager" target="game.GameObject.GameObject">
+                  <point x="41.75" y="-14.5" />
+                  <point x="917.5540852074289" y="653.0" />
+                  <point x="1701.261181034728" y="653.0" />
+                  <point x="1701.261181034728" y="69.0" />
+                  <point x="1321.9299777983638" y="69.0" />
+                  <point x="33.71428571428578" y="14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.Individual.Ballons">
+                  <point x="-20.75" y="-14.5" />
+                  <point x="583.6573717948718" y="732.0" />
+                  <point x="370.15600828435197" y="732.0" />
+                  <point x="370.15600828435197" y="554.0" />
+                  <point x="347.69762250830513" y="554.0" />
+                  <point x="24.25" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.graphics.Camera">
+                  <point x="19.0" y="-14.5" />
+                  <point x="365.15933773106707" y="1079.0" />
+                  <point x="425.8916666666669" y="1079.0" />
+                  <point x="-30.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Brick" target="game.GameObject.Object.Object">
+                  <point x="0.0" y="-14.5" />
+                  <point x="660.5573717948719" y="643.0" />
+                  <point x="1684.886181034728" y="643.0" />
+                  <point x="1684.886181034728" y="168.0" />
+                  <point x="1679.511181034728" y="168.0" />
+                  <point x="33.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Bomberman" target="game.GameObject.Individual.Individual">
+                  <point x="1.1368683772161603E-13" y="-14.5" />
+                  <point x="718.7341609698436" y="297.0" />
+                  <point x="680.4597397031256" y="297.0" />
+                  <point x="-14.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Bomberman" target="game.Holder">
+                  <point x="0.0" y="14.5" />
+                  <point x="718.7341609698435" y="633.0" />
+                  <point x="733.1314102564104" y="633.0" />
+                  <point x="733.1314102564104" y="1228.0" />
+                  <point x="709.6377390535827" y="1228.0" />
+                  <point x="20.769230769230717" y="-14.5" />
+                </edge>
+                <edge source="game.Collision" target="game.Holder">
+                  <point x="37.0" y="14.5" />
+                  <point x="662.1573717948719" y="1099.0" />
+                  <point x="649.7866627800486" y="1099.0" />
+                  <point x="649.7866627800486" y="1178.0" />
+                  <point x="695.7915852074289" y="1178.0" />
+                  <point x="6.923076923076906" y="-14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.View">
+                  <point x="9.25" y="-14.5" />
+                  <point x="92.5625" y="871.0" />
+                  <point x="165.67500000000007" y="871.0" />
+                  <point x="-28.5" y="14.5" />
+                </edge>
+                <edge source="game.states.MenuState" target="game.Controller.Keyboard">
+                  <point x="41.625" y="-14.5" />
+                  <point x="171.8125" y="980.0" />
+                  <point x="344.5916666666667" y="980.0" />
+                  <point x="-34.66666666666674" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastDown">
+                  <point x="10.85714285714289" y="-14.5" />
+                  <point x="1184.0121896030332" y="465.0" />
+                  <point x="1343.3984466841293" y="465.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.Individual.Bomberman">
+                  <point x="4.150000000000091" y="-14.5" />
+                  <point x="608.5573717948719" y="633.0" />
+                  <point x="681.7341609698435" y="633.0" />
+                  <point x="-37.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Smart" target="game.Node">
+                  <point x="31.125" y="-14.5" />
+                  <point x="328.40600828435197" y="564.0" />
+                  <point x="503.07083333333344" y="564.0" />
+                  <point x="503.07083333333344" y="376.0" />
+                  <point x="545.9323717948716" y="376.0" />
+                  <point x="-15.200000000000045" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Monster" target="game.Node">
+                  <point x="36.375" y="-14.5" />
+                  <point x="477.82262250830513" y="366.0" />
+                  <point x="530.7323717948716" y="366.0" />
+                  <point x="-30.40000000000009" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.LifeBoost">
+                  <point x="18.444444444444457" y="-14.5" />
+                  <point x="1261.2990254174115" y="277.0" />
+                  <point x="1359.2056254791723" y="277.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.World">
+                  <point x="46.25" y="-14.5" />
+                  <point x="129.5625" y="891.0" />
+                  <point x="594.0323717948718" y="891.0" />
+                  <point x="-10.375" y="14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.Object.Brick">
+                  <point x="12.450000000000045" y="-14.5" />
+                  <point x="616.8573717948718" y="722.0" />
+                  <point x="639.8073717948719" y="722.0" />
+                  <point x="-20.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Portal" target="game.GameObject.Object.Object">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1480.7056254791723" y="168.0" />
+                  <point x="1634.511181034728" y="168.0" />
+                  <point x="-11.25" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.BlastLeft" target="game.GameObject.Object.Blast.Blast">
+                  <point x="0.0" y="-14.5" />
+                  <point x="957.3984466841293" y="366.0" />
+                  <point x="1209.6545809729669" y="366.0" />
+                  <point x="-33.19999999999999" y="14.5" />
+                </edge>
+                <edge source="game.states.MenuState" target="game.states.State">
+                  <point x="0.0" y="14.5" />
+                  <point x="130.1875" y="1327.0" />
+                  <point x="180.77267495101853" y="1327.0" />
+                  <point x="0.0" y="-14.5" />
+                </edge>
+                <edge source="game.World" target="game.Holder">
+                  <point x="10.375" y="14.5" />
+                  <point x="614.7823717948718" y="901.0" />
+                  <point x="559.1573717948719" y="901.0" />
+                  <point x="559.1573717948719" y="1198.0" />
+                  <point x="681.945431361275" y="1198.0" />
+                  <point x="-6.923076923076906" y="-14.5" />
+                </edge>
+                <edge source="game.Holder" target="game.Collision">
+                  <point x="0.0" y="-14.5" />
+                  <point x="688.868508284352" y="1188.0" />
+                  <point x="640.1958333333334" y="1188.0" />
+                  <point x="640.1958333333334" y="1099.0" />
+                  <point x="625.1573717948719" y="1099.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.View">
+                  <point x="-3.7999999999999545" y="-14.5" />
+                  <point x="342.3593377310671" y="1049.0" />
+                  <point x="240.36166278004845" y="1049.0" />
+                  <point x="240.36166278004845" y="871.0" />
+                  <point x="222.67500000000007" y="871.0" />
+                  <point x="28.5" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.GameObject" target="game.Holder">
+                  <point x="50.571428571428555" y="14.5" />
+                  <point x="1338.7871206555064" y="59.0" />
+                  <point x="1712.261181034728" y="59.0" />
+                  <point x="1712.261181034728" y="1258.0" />
+                  <point x="730.4069698228134" y="1258.0" />
+                  <point x="41.53846153846143" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.BlastCenter" target="game.GameObject.Object.Blast.Blast">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1481.3984466841293" y="376.0" />
+                  <point x="1276.054580972967" y="376.0" />
+                  <point x="33.200000000000045" y="14.5" />
+                </edge>
+                <edge source="game.Holder" target="game.Game">
+                  <point x="-41.53846153846166" y="-14.5" />
+                  <point x="647.3300467458903" y="1248.0" />
+                  <point x="336.65933773106707" y="1248.0" />
+                  <point x="-9.5" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastRight">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1173.1550467458906" y="455.0" />
+                  <point x="1208.8984466841293" y="455.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.GameObject.GameObject">
+                  <point x="-46.25" y="-14.5" />
+                  <point x="37.0625" y="821.0" />
+                  <point x="0.0" y="821.0" />
+                  <point x="0.0" y="49.0" />
+                  <point x="1237.6442635126496" y="49.0" />
+                  <point x="-50.571428571428555" y="14.5" />
+                </edge>
+                <edge source="game.tiles.TileFloor" target="game.tiles.Tile">
+                  <point x="27.75" y="14.5" />
+                  <point x="83.25" y="1574.0" />
+                  <point x="74.5" y="1574.0" />
+                  <point x="19.0" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Individual" target="game.graphics.Animation">
+                  <point x="-29.5" y="-14.5" />
+                  <point x="665.7097397031256" y="148.0" />
+                  <point x="317.63512250830513" y="148.0" />
+                  <point x="46.25" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Smart" target="game.graphics.Animation">
+                  <point x="-31.125" y="-14.5" />
+                  <point x="266.15600828435197" y="564.0" />
+                  <point x="243.63512250830513" y="564.0" />
+                  <point x="-27.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Bomberman" target="game.GameObject.Object.Bomb">
+                  <point x="37.000000000000114" y="-14.5" />
+                  <point x="755.7341609698436" y="564.0" />
+                  <point x="1154.1550467458906" y="564.0" />
+                  <point x="-19.0" y="14.5" />
+                </edge>
+                <edge source="game.Controller.Keyboard" target="game.Controller.Action">
+                  <point x="0.0" y="-14.5" />
+                  <point x="379.25833333333344" y="861.0" />
+                  <point x="412.67500000000007" y="861.0" />
+                  <point x="-22.5" y="14.5" />
+                </edge>
+                <edge source="game.Controller.MenuKey" target="game.Controller.MenuAction">
+                  <point x="-24.25" y="-14.5" />
+                  <point x="45.25" y="752.0" />
+                  <point x="40.0" y="752.0" />
+                  <point x="-29.5" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.Holder">
+                  <point x="9.5" y="14.5" />
+                  <point x="355.65933773106707" y="1238.0" />
+                  <point x="654.2531236689674" y="1238.0" />
+                  <point x="-34.61538461538453" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastCenter">
+                  <point x="21.714285714285666" y="-14.5" />
+                  <point x="1194.869332460176" y="475.0" />
+                  <point x="1481.3984466841293" y="475.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.MenuState" target="game.states.GameState">
+                  <point x="-41.625" y="-14.5" />
+                  <point x="88.5625" y="980.0" />
+                  <point x="83.3125" y="980.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.Individual.Smart">
+                  <point x="-29.049999999999955" y="-14.5" />
+                  <point x="575.3573717948718" y="742.0" />
+                  <point x="318.03100828435197" y="742.0" />
+                  <point x="20.75" y="14.5" />
+                </edge>
+                <edge source="game.Node" target="game.Holder">
+                  <point x="0.0" y="14.5" />
+                  <point x="561.1323717948717" y="386.0" />
+                  <point x="524.5083333333334" y="386.0" />
+                  <point x="524.5083333333334" y="1208.0" />
+                  <point x="675.0223544381981" y="1208.0" />
+                  <point x="-13.846153846153811" y="-14.5" />
+                </edge>
+                <edge source="game.states.GameState" target="game.states.State">
+                  <point x="-37.0" y="14.5" />
+                  <point x="46.3125" y="980.0" />
+                  <point x="37.3125" y="980.0" />
+                  <point x="37.3125" y="1347.0" />
+                  <point x="147.57267495101848" y="1347.0" />
+                  <point x="-33.200000000000045" y="-14.5" />
+                </edge>
+                <edge source="game.World" target="game.GameObject.Individual.Dall">
+                  <point x="-37.34999999999991" y="-14.5" />
+                  <point x="567.0573717948719" y="752.0" />
+                  <point x="246.69762250830513" y="752.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Monster" target="game.GameObject.Individual.Individual">
+                  <point x="12.125" y="-14.5" />
+                  <point x="453.57262250830513" y="386.0" />
+                  <point x="460.88333333333344" y="386.0" />
+                  <point x="460.88333333333344" y="297.0" />
+                  <point x="650.9597397031256" y="297.0" />
+                  <point x="-44.25" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.Collision">
+                  <point x="34.200000000000045" y="-14.5" />
+                  <point x="380.3593377310671" y="1099.0" />
+                  <point x="588.1573717948719" y="1099.0" />
+                  <point x="-37.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.Item" target="game.GameObject.Object.Blast.Blast">
+                  <point x="15.200000000000045" y="14.5" />
+                  <point x="1284.4556254791723" y="168.0" />
+                  <point x="1293.2056254791723" y="168.0" />
+                  <point x="1293.2056254791723" y="267.0" />
+                  <point x="1252.076803195189" y="267.0" />
+                  <point x="9.222222222222172" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.BlastDown" target="game.GameObject.Object.Blast.Blast">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1343.3984466841293" y="386.0" />
+                  <point x="1259.454580972967" y="386.0" />
+                  <point x="16.600000000000023" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Object" target="game.GameObject.GameObject">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1645.761181034728" y="79.0" />
+                  <point x="1305.072834941221" y="79.0" />
+                  <point x="16.85714285714289" y="14.5" />
+                </edge>
+                <edge source="game.tiles.TileWall" target="game.tiles.Tile">
+                  <point x="-26.0" y="-14.5" />
+                  <point x="29.5" y="1653.0" />
+                  <point x="36.5" y="1653.0" />
+                  <point x="-19.0" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.Controller.MenuKey">
+                  <point x="-26.59999999999991" y="-14.5" />
+                  <point x="319.55933773106716" y="1079.0" />
+                  <point x="17.3125" y="1079.0" />
+                  <point x="17.3125" y="841.0" />
+                  <point x="57.375" y="841.0" />
+                  <point x="-12.125" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.GameObject">
+                  <point x="-27.66666666666663" y="-14.5" />
+                  <point x="1215.1879143063002" y="267.0" />
+                  <point x="857.2056254791723" y="267.0" />
+                  <point x="857.2056254791723" y="69.0" />
+                  <point x="1271.358549226935" y="69.0" />
+                  <point x="-16.85714285714289" y="14.5" />
+                </edge>
+                <edge source="game.tiles.Tile" target="game.tiles.TileWall">
+                  <point x="19.0" y="14.5" />
+                  <point x="74.5" y="1653.0" />
+                  <point x="81.5" y="1653.0" />
+                  <point x="26.0" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.Holder">
+                  <point x="19.0" y="14.5" />
+                  <point x="1192.1550467458906" y="1248.0" />
+                  <point x="723.4838928997365" y="1248.0" />
+                  <point x="34.61538461538453" y="-14.5" />
+                </edge>
+                <edge source="game.GameObject.GameObjectManager" target="game.GameObject.Individual.Bomberman">
+                  <point x="-41.75" y="-14.5" />
+                  <point x="834.0540852074289" y="633.0" />
+                  <point x="755.7341609698436" y="633.0" />
+                  <point x="37.000000000000114" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Individual.Individual">
+                  <point x="-36.888888888888914" y="-14.5" />
+                  <point x="1205.965692084078" y="277.0" />
+                  <point x="739.4597397031256" y="277.0" />
+                  <point x="44.25" y="14.5" />
+                </edge>
+                <edge source="game.states.MenuState" target="game.View">
+                  <point x="13.875" y="-14.5" />
+                  <point x="144.0625" y="970.0" />
+                  <point x="173.8125" y="970.0" />
+                  <point x="173.8125" y="871.0" />
+                  <point x="184.67500000000007" y="871.0" />
+                  <point x="-9.5" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.SpeedBoost">
+                  <point x="-9.222222222222172" y="-14.5" />
+                  <point x="1233.6323587507447" y="247.0" />
+                  <point x="1057.7056254791723" y="247.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Ballons" target="game.GameObject.Individual.Monster">
+                  <point x="24.25" y="-14.5" />
+                  <point x="347.69762250830513" y="485.0" />
+                  <point x="441.44762250830513" y="485.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.states.SettingState" target="game.states.State">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Dall" target="game.graphics.Animation">
+                  <point x="-19.0" y="-14.5" />
+                  <point x="227.69762250830513" y="168.0" />
+                  <point x="225.13512250830513" y="168.0" />
+                  <point x="-46.25" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Individual.Individual">
+                  <point x="-32.571428571428555" y="-14.5" />
+                  <point x="1140.583618174462" y="485.0" />
+                  <point x="756.7050467458904" y="485.0" />
+                  <point x="756.7050467458904" y="287.0" />
+                  <point x="709.9597397031256" y="287.0" />
+                  <point x="14.75" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.Portal">
+                  <point x="36.888888888888914" y="-14.5" />
+                  <point x="1279.7434698618558" y="297.0" />
+                  <point x="1480.7056254791723" y="297.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.Holder" target="game.World">
+                  <point x="13.846153846153811" y="-14.5" />
+                  <point x="702.7146621305058" y="1168.0" />
+                  <point x="691.1573717948718" y="1168.0" />
+                  <point x="691.1573717948718" y="901.0" />
+                  <point x="635.5323717948718" y="901.0" />
+                  <point x="31.125" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.BlastUp" target="game.GameObject.Object.Blast.Blast">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1081.3984466841293" y="376.0" />
+                  <point x="1226.2545809729668" y="376.0" />
+                  <point x="-16.600000000000023" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.BombRangeBoost">
+                  <point x="0.0" y="-14.5" />
+                  <point x="1242.854580972967" y="237.0" />
+                  <point x="1209.7056254791723" y="237.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Object.item.BombBoost" target="game.GameObject.Object.item.Item">
+                  <point x="0.0" y="-14.5" />
+                  <point x="923.2056254791723" y="148.0" />
+                  <point x="1238.8556254791724" y="148.0" />
+                  <point x="-30.399999999999977" y="14.5" />
+                </edge>
+                <edge source="game.Game" target="game.states.MenuState">
+                  <point x="-19.0" y="-14.5" />
+                  <point x="327.15933773106707" y="1069.0" />
+                  <point x="167.1875" y="1069.0" />
+                  <point x="37.0" y="14.5" />
+                </edge>
+                <edge source="game.GameObject.Individual.Dall" target="game.GameObject.Individual.Smart">
+                  <point x="19.0" y="-14.5" />
+                  <point x="265.69762250830513" y="653.0" />
+                  <point x="276.53100828435197" y="653.0" />
+                  <point x="-20.75" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.35487593768032316" x="856.5" y="853.5" />
+              <SelectedNodes>
+                <node>game.Controller.AIAction</node>
+                <node>game.GameObject.Individual.Directions</node>
+                <node>game.GameObject.Individual.Bomberman</node>
+                <node>game.Constants</node>
+                <node>game.GameObject.Object.Blast.BlastRight</node>
+                <node>game.GameObject.GameObject</node>
+                <node>game.Utilities.Utilities</node>
+                <node>game.GameObject.Individual.Individual</node>
+                <node>game.GameObject.Individual.Dall</node>
+                <node>game.Holder</node>
+                <node>game.GameObject.Object.item.LifeBoost</node>
+                <node>game.Controller.Keyboard</node>
+                <node>game.GameObject.Object.item.BombRangeBoost</node>
+                <node>game.GameObject.Object.item.SpeedBoost</node>
+                <node>game.GameObject.Individual.Smart</node>
+                <node>game.Controller.MenuAction</node>
+                <node>game.states.SettingState</node>
+                <node>game.GameObject.Object.item.BombBoost</node>
+                <node>game.GameObject.GameObjectManager</node>
+                <node>game.View</node>
+                <node>game.GameObject.Object.Blast.BlastUp</node>
+                <node>game.tiles.TileFloor</node>
+                <node>game.GameObject.Object.Blast.BlastLeft</node>
+                <node>game.GameObject.Object.Bomb</node>
+                <node>game.graphics.SpriteSheet</node>
+                <node>game.Controller.MenuKey</node>
+                <node>game.states.MenuState</node>
+                <node>game.graphics.ImageLoader</node>
+                <node>game.Controller.AIController</node>
+                <node>game.tiles.TileWall</node>
+                <node>game.resources.Assets</node>
+                <node>game.graphics.Animation</node>
+                <node>game.GameObject.Object.item.Item</node>
+                <node>game.GameObject.Object.Portal</node>
+                <node>game.GameObject.Individual.Monster</node>
+                <node>game.World</node>
+                <node>game.graphics.Camera</node>
+                <node>game.GameObject.Object.Blast.BlastDown</node>
+                <node>game.states.State</node>
+                <node>game.GameObject.Object.Blast.Blast</node>
+                <node>game.Controller.Action</node>
+                <node>game.Game</node>
+                <node>game.tiles.Tile</node>
+                <node>game.Collision</node>
+                <node>game.Controller.Controller</node>
+                <node>game.GameObject.Individual.Ballons</node>
+                <node>game.Node</node>
+                <node>game.GameObject.Object.Brick</node>
+                <node>game.GameObject.Object.Object</node>
+                <node>game.states.GameState</node>
+                <node>game.SoundManager</node>
+                <node>game.GameObject.Object.Blast.BlastCenter</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Smart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Smart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1120">
+              <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="94" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dall.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Dall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bomb.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Bomb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="80" column="63" lean-forward="false" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ballons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Ballons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObjectManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject/GameObjectManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1184">
+              <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Length</find>
+      <find>main</find>
+      <find>1489</find>
+      <find>re</find>
+      <find>reversed</find>
+      <find>zxz</find>
+      <find>RIGHT</find>
+      <find>out</find>
+      <find>isGameObjectOrTiles</find>
+      <find>Arrive!</find>
+      <find>checkIsJunction</find>
+      <find>checkCanTurn</find>
+      <find>possible</find>
+      <find>ZZZ</find>
+      <find>////**</find>
+      <find>960</find>
+      <find>480</find>
+      <find>560</find>
+      <find>AA</find>
+      <find>Possible</find>
+      <find>dskdjsdksjdsikdjskdjskdsjdksjdks</find>
+      <find>yes</find>
+      <find>true</find>
+      <find>posY</find>
+      <find>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</find>
+      <find>.out.</find>
+      <find>a a a</find>
+      <find>ACX</find>
+      <find>counter</find>
+      <find>walking</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/game/GameObject/Creature/Monster.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/direction.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/monster.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/AIController.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Direction.java" />
+        <option value="$PROJECT_DIR$/src/game/node.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Directions.java" />
+        <option value="$PROJECT_DIR$/src/game/Node.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Animation.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/BombRangeBoost.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/BombBoost.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/SpeedBoost.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/Item.java" />
+        <option value="$PROJECT_DIR$/src/game/tiles/Tile.java" />
+        <option value="$PROJECT_DIR$/src/game/Holder.java" />
+        <option value="$PROJECT_DIR$/src/game/graphics/Camera.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastCenter.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastDown.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastLeft.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastRight.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastUp.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/MenuAction.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/menuKey.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/AIAction.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/Action.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller/MenuKey.java" />
+        <option value="$PROJECT_DIR$/src/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/game/Collision.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/lifeBoost.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/item/LifeBoost.java" />
+        <option value="$PROJECT_DIR$/src/game/resources/Assets.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/GameObjectManager.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Bomb.java" />
+        <option value="$PROJECT_DIR$/src/game/SoundManager.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Portal.java" />
+        <option value="$PROJECT_DIR$/src/game/states/MenuState.java" />
+        <option value="$PROJECT_DIR$/src/game/states/GameState.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Bomberman.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Individual.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Object/Blast/Blast.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Ballons.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Intelligence.java" />
+        <option value="$PROJECT_DIR$/src/game/Constants.java" />
+        <option value="$PROJECT_DIR$/src/game/View.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Monster.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Smart.java" />
+        <option value="$PROJECT_DIR$/src/game/GameObject/Individual/Dall.java" />
+        <option value="$PROJECT_DIR$/src/game/World.java" />
+        <option value="$PROJECT_DIR$/src/game/graphics/Animation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graphics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Individual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worlds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bomberman(New)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Individual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../新資料夾/diagram.png" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="game.GameObject.Object" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration default="false" name="Utilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.Utilities.Utilities" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.GameObject.Object.Blast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.GameObject.GameObject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.World" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Bomberman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.graphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.GameObject.Individual.Bomberman" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SoundManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.SoundManager" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Game" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bomberman(New)" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Game" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Utilities" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GameObject" />
+      <item index="3" class="java.lang.String" itemvalue="Application.World" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Bomberman" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SoundManager" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SoundManager" />
+        <item index="1" class="java.lang.String" itemvalue="Application.World" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Bomberman" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GameObject" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Utilities" />
+      </list>
+    </recent_temporary>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee440c97-afe2-4c59-b08b-8e65411da317" name="Default" comment="" />
+      <created>1479133650036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479133650036</updated>
+      <workItem from="1479133653434" duration="6000" />
+      <workItem from="1479234695175" duration="1915000" />
+      <workItem from="1479237888563" duration="9406000" />
+      <workItem from="1479315442046" duration="1810000" />
+      <workItem from="1479340445100" duration="10194000" />
+      <workItem from="1479380286050" duration="1836000" />
+      <workItem from="1479383087723" duration="3228000" />
+      <workItem from="1479388387132" duration="2232000" />
+      <workItem from="1479394981954" duration="6318000" />
+      <workItem from="1479417638376" duration="6174000" />
+      <workItem from="1479428405643" duration="693000" />
+      <workItem from="1479429915140" duration="1313000" />
+      <workItem from="1479468158940" duration="1867000" />
+      <workItem from="1479490445013" duration="5336000" />
+      <workItem from="1479562750872" duration="1140000" />
+      <workItem from="1479567118538" duration="13298000" />
+      <workItem from="1479606568755" duration="4915000" />
+      <workItem from="1479684218598" duration="661000" />
+      <workItem from="1479824831462" duration="800000" />
+      <workItem from="1479829307626" duration="599000" />
+      <workItem from="1479855019316" duration="158000" />
+      <workItem from="1479909314271" duration="785000" />
+      <workItem from="1480290623509" duration="618000" />
+      <workItem from="1480361055880" duration="113000" />
+      <workItem from="1480435435742" duration="131000" />
+      <workItem from="1481498072290" duration="604000" />
+      <workItem from="1481505475841" duration="1640000" />
+      <workItem from="1481591241275" duration="462000" />
+      <workItem from="1481636146400" duration="276000" />
+      <workItem from="1481649500512" duration="1170000" />
+      <workItem from="1481670040037" duration="5513000" />
+      <workItem from="1481730376857" duration="4185000" />
+      <workItem from="1481825606212" duration="490000" />
+      <workItem from="1481853988239" duration="686000" />
+      <workItem from="1483284610282" duration="742000" />
+      <workItem from="1483312069431" duration="13000" />
+      <workItem from="1483466744281" duration="6134000" />
+      <workItem from="1483548534576" duration="5008000" />
+      <workItem from="1483640638906" duration="6974000" />
+      <workItem from="1483711817198" duration="2908000" />
+      <workItem from="1483988064986" duration="10352000" />
+      <workItem from="1484050096146" duration="2096000" />
+      <workItem from="1484073409005" duration="2035000" />
+      <workItem from="1484146885878" duration="4879000" />
+      <workItem from="1484176405322" duration="1995000" />
+      <workItem from="1484341766140" duration="599000" />
+      <workItem from="1484395630807" duration="8399000" />
+      <workItem from="1484678169290" duration="1329000" />
+      <workItem from="1484755712877" duration="840000" />
+      <workItem from="1484765690629" duration="1498000" />
+      <workItem from="1484869658859" duration="4166000" />
+      <workItem from="1484917322787" duration="2646000" />
+      <workItem from="1485016434793" duration="1079000" />
+      <workItem from="1485042413137" duration="599000" />
+      <workItem from="1485084873039" duration="5997000" />
+      <workItem from="1485217906382" duration="947000" />
+      <workItem from="1485265571093" duration="1458000" />
+      <workItem from="1485356102210" duration="6868000" />
+      <workItem from="1485392486108" duration="43000" />
+      <workItem from="1485426932134" duration="36000" />
+      <workItem from="1485426995482" duration="1645000" />
+      <workItem from="1485429537796" duration="1989000" />
+      <workItem from="1485438340320" duration="302000" />
+      <workItem from="1485956458829" duration="648000" />
+      <workItem from="1485965025388" duration="4788000" />
+      <workItem from="1485973063716" duration="3804000" />
+      <workItem from="1486031948724" duration="3877000" />
+      <workItem from="1486040765810" duration="2123000" />
+      <workItem from="1486042924362" duration="5000" />
+      <workItem from="1486045646055" duration="8453000" />
+      <workItem from="1486054823390" duration="204000" />
+      <workItem from="1486055076529" duration="104000" />
+      <workItem from="1486055246175" duration="82000" />
+      <workItem from="1486309003525" duration="1210000" />
+      <workItem from="1486476412583" duration="5882000" />
+      <workItem from="1486564455202" duration="6115000" />
+      <workItem from="1486645651925" duration="3087000" />
+      <workItem from="1486921199877" duration="743000" />
+      <workItem from="1487092983063" duration="2112000" />
+      <workItem from="1487114892052" duration="626000" />
+      <workItem from="1487430519867" duration="2763000" />
+      <workItem from="1487546029851" duration="206000" />
+      <workItem from="1487546297785" duration="1443000" />
+      <workItem from="1487626816300" duration="2468000" />
+      <workItem from="1487766871157" duration="617000" />
+      <workItem from="1487855181681" duration="2306000" />
+      <workItem from="1488070628084" duration="762000" />
+      <workItem from="1488117257833" duration="19973000" />
+      <workItem from="1488209220098" duration="14559000" />
+      <workItem from="1488242457206" duration="162000" />
+      <workItem from="1488372496884" duration="5925000" />
+      <workItem from="1488561564105" duration="10868000" />
+      <workItem from="1488634849041" duration="4406000" />
+      <workItem from="1488722160887" duration="8376000" />
+      <workItem from="1488901182096" duration="964000" />
+      <workItem from="1488977870410" duration="16949000" />
+      <workItem from="1489010808959" duration="54000" />
+      <workItem from="1489010942759" duration="3310000" />
+      <workItem from="1489054327138" duration="6137000" />
+      <workItem from="1489078497337" duration="4493000" />
+      <workItem from="1489102046872" duration="225000" />
+      <workItem from="1489102289647" duration="1168000" />
+      <workItem from="1489144019877" duration="15297000" />
+      <workItem from="1489234157964" duration="14694000" />
+      <workItem from="1489322071205" duration="23418000" />
+      <workItem from="1489350627885" duration="2978000" />
+      <workItem from="1489354353835" duration="10702000" />
+      <workItem from="1489402686856" duration="86000" />
+      <workItem from="1489410034145" duration="303000" />
+      <workItem from="1489410392950" duration="24447000" />
+      <workItem from="1489493242851" duration="11665000" />
+      <workItem from="1489620066176" duration="1098000" />
+      <workItem from="1489658797732" duration="7030000" />
+      <workItem from="1489669294636" duration="1288000" />
+      <workItem from="1489670764934" duration="1036000" />
+      <workItem from="1489679735148" duration="7432000" />
+      <workItem from="1489688263933" duration="270000" />
+      <workItem from="1489695465811" duration="9560000" />
+      <workItem from="1489756537691" duration="22470000" />
+      <workItem from="1489840573472" duration="3592000" />
+      <workItem from="1489850446501" duration="9014000" />
+      <workItem from="1489860840188" duration="1169000" />
+      <workItem from="1489884111980" duration="4895000" />
+      <workItem from="1489922202696" duration="41893000" />
+      <workItem from="1489974588057" duration="118000" />
+      <workItem from="1490002582783" duration="147000" />
+      <workItem from="1490011053877" duration="1575000" />
+      <workItem from="1490013339622" duration="1307000" />
+      <workItem from="1490015105178" duration="5491000" />
+      <workItem from="1490191358376" duration="45000" />
+      <workItem from="1490195516891" duration="486000" />
+      <workItem from="1490703759129" duration="3373000" />
+      <workItem from="1490792701546" duration="660000" />
+      <workItem from="1490829505446" duration="668000" />
+      <workItem from="1490880628628" duration="2583000" />
+      <workItem from="1491262591821" duration="1503000" />
+      <workItem from="1491332208467" duration="1344000" />
+      <workItem from="1491411259682" duration="849000" />
+      <workItem from="1491493285895" duration="286000" />
+      <workItem from="1491580248711" duration="599000" />
+      <workItem from="1491743280914" duration="682000" />
+      <workItem from="1492004148470" duration="621000" />
+      <workItem from="1492094328355" duration="3524000" />
+      <workItem from="1492176663240" duration="10815000" />
+      <workItem from="1492270873406" duration="3486000" />
+      <workItem from="1492358512335" duration="3860000" />
+      <workItem from="1492438281397" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="585235000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19027483" sideWeight="0.5042598" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990354" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17659806" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39606127" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31947485" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/game/graphics/ImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/graphics/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2211">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_111/src.zip!/java/util/Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/AIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/AIAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Holder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/MenuKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/MenuAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Collision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="68" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/BlastUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Brick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/states/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/states/SettingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/item/LifeBoost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/item/SpeedBoost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/item/BombBoost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/resources/Assets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/javax/sound/sampled/Clip.java" />
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="85" column="11" lean-forward="false" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/states/MenuState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/SoundManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/states/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk8/src.zip!/java/awt/Canvas.java" />
+    <entry file="file://$PROJECT_DIR$/resources/textures/Sheet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Blast/Blast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="118" column="35" lean-forward="false" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Portal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Bomberman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3920">
+          <caret line="257" column="118" lean-forward="false" selection-start-line="257" selection-start-column="118" selection-end-line="257" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Directions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/GameObjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Object/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="80" column="63" lean-forward="false" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Smart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="94" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Dall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="143" column="94" lean-forward="false" selection-start-line="143" selection-start-column="94" selection-end-line="143" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject/Individual/Ballons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/graphics/Animation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>game</OriginalElement>
+          <nodes>
+            <node x="1162.0" y="1520.0">game.Controller.AIAction</node>
+            <node x="392.94762250830513" y="188.0">game.GameObject.Individual.Directions</node>
+            <node x="663.2341609698435" y="584.0">game.GameObject.Individual.Bomberman</node>
+            <node x="850.0" y="1520.0">game.Constants</node>
+            <node x="1149.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastRight</node>
+            <node x="1229.215692084078" y="0.0">game.GameObject.GameObject</node>
+            <node x="1006.0" y="1520.0">game.Utilities.Utilities</node>
+            <node x="636.2097397031256" y="188.0">game.GameObject.Individual.Individual</node>
+            <node x="208.69762250830513" y="673.0">game.GameObject.Individual.Dall</node>
+            <node x="643.868508284352" y="1278.0">game.Holder</node>
+            <node x="1303.7056254791723" y="188.0">game.GameObject.Object.item.LifeBoost</node>
+            <node x="327.25833333333344" y="921.0">game.Controller.Keyboard</node>
+            <node x="1136.7056254791723" y="188.0">game.GameObject.Object.item.BombRangeBoost</node>
+            <node x="998.7056254791723" y="188.0">game.GameObject.Object.item.SpeedBoost</node>
+            <node x="255.78100828435197" y="584.0">game.GameObject.Individual.Smart</node>
+            <node x="10.5" y="673.0">game.Controller.MenuAction</node>
+            <node x="114.77267495101853" y="1446.0">game.states.SettingState</node>
+            <node x="867.7056254791723" y="188.0">game.GameObject.Object.item.BombBoost</node>
+            <node x="792.3040852074289" y="673.0">game.GameObject.GameObjectManager</node>
+            <node x="156.17500000000007" y="772.0">game.View</node>
+            <node x="1032.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastUp</node>
+            <node x="0.0" y="1520.0">game.tiles.TileFloor</node>
+            <node x="901.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastLeft</node>
+            <node x="1135.1550467458906" y="505.0">game.GameObject.Object.Bomb</node>
+            <node x="156.0" y="1520.0">game.graphics.SpriteSheet</node>
+            <node x="21.0" y="772.0">game.Controller.MenuKey</node>
+            <node x="74.6875" y="1000.0">game.states.MenuState</node>
+            <node x="680.0" y="1520.0">game.graphics.ImageLoader</node>
+            <node x="503.0" y="1520.0">game.Controller.AIController</node>
+            <node x="3.5" y="1678.0">game.tiles.TileWall</node>
+            <node x="173.5" y="1599.0">game.resources.Assets</node>
+            <node x="215.88512250830513" y="99.0">game.graphics.Animation</node>
+            <node x="1231.2556254791723" y="99.0">game.GameObject.Object.item.Item</node>
+            <node x="1435.7056254791723" y="188.0">game.GameObject.Object.Portal</node>
+            <node x="392.94762250830513" y="406.0">game.GameObject.Individual.Monster</node>
+            <node x="562.9073717948718" y="772.0">game.World</node>
+            <node x="410.8916666666669" y="1000.0">game.graphics.Camera</node>
+            <node x="1287.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastDown</node>
+            <node x="139.27267495101853" y="1367.0">game.states.State</node>
+            <node x="1201.354580972967" y="317.0">game.GameObject.Object.Blast.Blast</node>
+            <node x="390.17500000000007" y="772.0">game.Controller.Action</node>
+            <node x="308.15933773106707" y="1119.0">game.Game</node>
+            <node x="17.5" y="1599.0">game.tiles.Tile</node>
+            <node x="569.6573717948719" y="1000.0">game.Collision</node>
+            <node x="252.17500000000007" y="772.0">game.Controller.Controller</node>
+            <node x="274.94762250830513" y="505.0">game.GameObject.Individual.Ballons</node>
+            <node x="523.1323717948717" y="317.0">game.Node</node>
+            <node x="619.0573717948719" y="673.0">game.GameObject.Object.Brick</node>
+            <node x="1600.761181034728" y="99.0">game.GameObject.Object.Object</node>
+            <node x="27.8125" y="921.0">game.states.GameState</node>
+            <node x="326.0" y="1520.0">game.SoundManager</node>
+            <node x="1418.8984466841293" y="406.0">game.GameObject.Object.Blast.BlastCenter</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="game.GameObject.Individual.Ballons" target="game.graphics.Animation">
+              <point x="-24.25" y="-14.5" />
+              <point x="299.19762250830513" y="168.0" />
+              <point x="280.63512250830513" y="168.0" />
+              <point x="9.25" y="14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.GameObjectManager">
+              <point x="29.049999999999955" y="-14.5" />
+              <point x="633.4573717948717" y="742.0" />
+              <point x="820.1374185407622" y="742.0" />
+              <point x="-55.66666666666674" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.SpeedBoost" target="game.GameObject.Object.item.Item">
+              <point x="0.0" y="-14.5" />
+              <point x="1057.7056254791723" y="158.0" />
+              <point x="1254.0556254791722" y="158.0" />
+              <point x="-15.200000000000045" y="14.5" />
+            </edge>
+            <edge source="game.Controller.Keyboard" target="game.Controller.Controller">
+              <point x="-34.66666666666674" y="-14.5" />
+              <point x="344.5916666666667" y="871.0" />
+              <point x="311.17500000000007" y="871.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Monster" target="game.GameObject.Individual.Directions">
+              <point x="-12.125" y="-14.5" />
+              <point x="429.32262250830513" y="386.0" />
+              <point x="440.63512250830513" y="386.0" />
+              <point x="440.63512250830513" y="297.0" />
+              <point x="451.94762250830513" y="297.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.Controller.MenuKey">
+              <point x="-27.75" y="-14.5" />
+              <point x="55.5625" y="851.0" />
+              <point x="81.625" y="851.0" />
+              <point x="12.125" y="14.5" />
+            </edge>
+            <edge source="game.Node" target="game.GameObject.Individual.Directions">
+              <point x="0.0" y="-14.5" />
+              <point x="561.1323717948717" y="287.0" />
+              <point x="491.2809558416384" y="287.0" />
+              <point x="39.33333333333326" y="14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.states.MenuState">
+              <point x="37.0" y="14.5" />
+              <point x="120.3125" y="980.0" />
+              <point x="116.3125" y="980.0" />
+              <point x="-13.875" y="-14.5" />
+            </edge>
+            <edge source="game.World" target="game.Node">
+              <point x="-12.450000000000045" y="-14.5" />
+              <point x="591.9573717948717" y="722.0" />
+              <point x="586.4351225083051" y="722.0" />
+              <point x="586.4351225083051" y="386.0" />
+              <point x="576.3323717948717" y="386.0" />
+              <point x="15.200000000000045" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Bomberman" target="game.graphics.Animation">
+              <point x="-36.999999999999886" y="-14.5" />
+              <point x="681.7341609698436" y="554.0" />
+              <point x="382.44762250830513" y="554.0" />
+              <point x="382.44762250830513" y="158.0" />
+              <point x="299.13512250830513" y="158.0" />
+              <point x="27.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.Item" target="game.GameObject.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="1269.2556254791723" y="79.0" />
+              <point x="1288.215692084078" y="79.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.BombRangeBoost" target="game.GameObject.Object.item.Item">
+              <point x="0.0" y="-14.5" />
+              <point x="1209.7056254791723" y="168.0" />
+              <point x="1269.2556254791723" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastLeft">
+              <point x="-21.714285714285722" y="-14.5" />
+              <point x="1151.4407610316048" y="475.0" />
+              <point x="957.3984466841293" y="475.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Individual" target="game.GameObject.GameObject">
+              <point x="29.5" y="-14.5" />
+              <point x="724.7097397031256" y="59.0" />
+              <point x="1254.5014063697922" y="59.0" />
+              <point x="-33.714285714285666" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastUp">
+              <point x="-10.857142857142833" y="-14.5" />
+              <point x="1162.2979038887477" y="465.0" />
+              <point x="1081.3984466841293" y="465.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.State" target="game.Holder">
+              <point x="33.200000000000045" y="-14.5" />
+              <point x="213.97267495101858" y="1347.0" />
+              <point x="688.868508284352" y="1347.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.BlastRight" target="game.GameObject.Object.Blast.Blast">
+              <point x="0.0" y="-14.5" />
+              <point x="1208.8984466841293" y="386.0" />
+              <point x="1242.854580972967" y="386.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.LifeBoost" target="game.GameObject.Object.item.Item">
+              <point x="0.0" y="-14.5" />
+              <point x="1359.2056254791723" y="168.0" />
+              <point x="1299.6556254791722" y="168.0" />
+              <point x="30.399999999999977" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.Object">
+              <point x="27.66666666666663" y="-14.5" />
+              <point x="1270.5212476396337" y="287.0" />
+              <point x="1425.2056254791723" y="287.0" />
+              <point x="1425.2056254791723" y="158.0" />
+              <point x="1612.011181034728" y="158.0" />
+              <point x="-33.75" y="14.5" />
+            </edge>
+            <edge source="game.graphics.Camera" target="game.Holder">
+              <point x="30.0" y="14.5" />
+              <point x="485.8916666666669" y="1089.0" />
+              <point x="470.42101009455683" y="1089.0" />
+              <point x="470.42101009455683" y="1218.0" />
+              <point x="668.0992775151212" y="1218.0" />
+              <point x="-20.769230769230717" y="-14.5" />
+            </edge>
+            <edge source="game.Game" target="game.states.State">
+              <point x="-28.5" y="14.5" />
+              <point x="317.65933773106707" y="1258.0" />
+              <point x="347.40600828435197" y="1258.0" />
+              <point x="347.40600828435197" y="1337.0" />
+              <point x="197.37267495101844" y="1337.0" />
+              <point x="16.59999999999991" y="-14.5" />
+            </edge>
+            <edge source="game.tiles.Tile" target="game.tiles.TileFloor">
+              <point x="-19.0" y="-14.5" />
+              <point x="36.5" y="1574.0" />
+              <point x="27.75" y="1574.0" />
+              <point x="-27.75" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.Controller.Keyboard">
+              <point x="3.7999999999999545" y="-14.5" />
+              <point x="349.959337731067" y="1059.0" />
+              <point x="392.79166666666674" y="1059.0" />
+              <point x="392.79166666666674" y="980.0" />
+              <point x="379.25833333333344" y="980.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.GameObjectManager" target="game.Holder">
+              <point x="55.66666666666674" y="14.5" />
+              <point x="931.4707518740956" y="1238.0" />
+              <point x="716.5608159766596" y="1238.0" />
+              <point x="27.692307692307622" y="-14.5" />
+            </edge>
+            <edge source="game.resources.Assets" target="game.graphics.SpriteSheet">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Object">
+              <point x="32.571428571428555" y="-14.5" />
+              <point x="1205.726475317319" y="485.0" />
+              <point x="1662.761181034728" y="485.0" />
+              <point x="1662.761181034728" y="168.0" />
+              <point x="1657.011181034728" y="168.0" />
+              <point x="11.25" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Smart" target="game.GameObject.Individual.Ballons">
+              <point x="10.375" y="-14.5" />
+              <point x="307.65600828435197" y="564.0" />
+              <point x="299.19762250830513" y="564.0" />
+              <point x="-24.25" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.BombBoost">
+              <point x="-18.444444444444457" y="-14.5" />
+              <point x="1224.4101365285223" y="257.0" />
+              <point x="923.2056254791723" y="257.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.GameObjectManager" target="game.GameObject.GameObject">
+              <point x="41.75" y="-14.5" />
+              <point x="917.5540852074289" y="653.0" />
+              <point x="1701.261181034728" y="653.0" />
+              <point x="1701.261181034728" y="69.0" />
+              <point x="1321.9299777983638" y="69.0" />
+              <point x="33.71428571428578" y="14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.Individual.Ballons">
+              <point x="-20.75" y="-14.5" />
+              <point x="583.6573717948718" y="732.0" />
+              <point x="370.15600828435197" y="732.0" />
+              <point x="370.15600828435197" y="554.0" />
+              <point x="347.69762250830513" y="554.0" />
+              <point x="24.25" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.graphics.Camera">
+              <point x="19.0" y="-14.5" />
+              <point x="365.15933773106707" y="1079.0" />
+              <point x="425.8916666666669" y="1079.0" />
+              <point x="-30.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Brick" target="game.GameObject.Object.Object">
+              <point x="0.0" y="-14.5" />
+              <point x="660.5573717948719" y="643.0" />
+              <point x="1684.886181034728" y="643.0" />
+              <point x="1684.886181034728" y="168.0" />
+              <point x="1679.511181034728" y="168.0" />
+              <point x="33.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Bomberman" target="game.GameObject.Individual.Individual">
+              <point x="1.1368683772161603E-13" y="-14.5" />
+              <point x="718.7341609698436" y="297.0" />
+              <point x="680.4597397031256" y="297.0" />
+              <point x="-14.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Bomberman" target="game.Holder">
+              <point x="0.0" y="14.5" />
+              <point x="718.7341609698435" y="633.0" />
+              <point x="733.1314102564104" y="633.0" />
+              <point x="733.1314102564104" y="1228.0" />
+              <point x="709.6377390535827" y="1228.0" />
+              <point x="20.769230769230717" y="-14.5" />
+            </edge>
+            <edge source="game.Collision" target="game.Holder">
+              <point x="37.0" y="14.5" />
+              <point x="662.1573717948719" y="1099.0" />
+              <point x="649.7866627800486" y="1099.0" />
+              <point x="649.7866627800486" y="1178.0" />
+              <point x="695.7915852074289" y="1178.0" />
+              <point x="6.923076923076906" y="-14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.View">
+              <point x="9.25" y="-14.5" />
+              <point x="92.5625" y="871.0" />
+              <point x="165.67500000000007" y="871.0" />
+              <point x="-28.5" y="14.5" />
+            </edge>
+            <edge source="game.states.MenuState" target="game.Controller.Keyboard">
+              <point x="41.625" y="-14.5" />
+              <point x="171.8125" y="980.0" />
+              <point x="344.5916666666667" y="980.0" />
+              <point x="-34.66666666666674" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastDown">
+              <point x="10.85714285714289" y="-14.5" />
+              <point x="1184.0121896030332" y="465.0" />
+              <point x="1343.3984466841293" y="465.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.Individual.Bomberman">
+              <point x="4.150000000000091" y="-14.5" />
+              <point x="608.5573717948719" y="633.0" />
+              <point x="681.7341609698435" y="633.0" />
+              <point x="-37.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Smart" target="game.Node">
+              <point x="31.125" y="-14.5" />
+              <point x="328.40600828435197" y="564.0" />
+              <point x="503.07083333333344" y="564.0" />
+              <point x="503.07083333333344" y="376.0" />
+              <point x="545.9323717948716" y="376.0" />
+              <point x="-15.200000000000045" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Monster" target="game.Node">
+              <point x="36.375" y="-14.5" />
+              <point x="477.82262250830513" y="366.0" />
+              <point x="530.7323717948716" y="366.0" />
+              <point x="-30.40000000000009" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.LifeBoost">
+              <point x="18.444444444444457" y="-14.5" />
+              <point x="1261.2990254174115" y="277.0" />
+              <point x="1359.2056254791723" y="277.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.World">
+              <point x="46.25" y="-14.5" />
+              <point x="129.5625" y="891.0" />
+              <point x="594.0323717948718" y="891.0" />
+              <point x="-10.375" y="14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.Object.Brick">
+              <point x="12.450000000000045" y="-14.5" />
+              <point x="616.8573717948718" y="722.0" />
+              <point x="639.8073717948719" y="722.0" />
+              <point x="-20.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Portal" target="game.GameObject.Object.Object">
+              <point x="0.0" y="-14.5" />
+              <point x="1480.7056254791723" y="168.0" />
+              <point x="1634.511181034728" y="168.0" />
+              <point x="-11.25" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.BlastLeft" target="game.GameObject.Object.Blast.Blast">
+              <point x="0.0" y="-14.5" />
+              <point x="957.3984466841293" y="366.0" />
+              <point x="1209.6545809729669" y="366.0" />
+              <point x="-33.19999999999999" y="14.5" />
+            </edge>
+            <edge source="game.states.MenuState" target="game.states.State">
+              <point x="0.0" y="14.5" />
+              <point x="130.1875" y="1327.0" />
+              <point x="180.77267495101853" y="1327.0" />
+              <point x="0.0" y="-14.5" />
+            </edge>
+            <edge source="game.World" target="game.Holder">
+              <point x="10.375" y="14.5" />
+              <point x="614.7823717948718" y="901.0" />
+              <point x="559.1573717948719" y="901.0" />
+              <point x="559.1573717948719" y="1198.0" />
+              <point x="681.945431361275" y="1198.0" />
+              <point x="-6.923076923076906" y="-14.5" />
+            </edge>
+            <edge source="game.Holder" target="game.Collision">
+              <point x="0.0" y="-14.5" />
+              <point x="688.868508284352" y="1188.0" />
+              <point x="640.1958333333334" y="1188.0" />
+              <point x="640.1958333333334" y="1099.0" />
+              <point x="625.1573717948719" y="1099.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.View">
+              <point x="-3.7999999999999545" y="-14.5" />
+              <point x="342.3593377310671" y="1049.0" />
+              <point x="240.36166278004845" y="1049.0" />
+              <point x="240.36166278004845" y="871.0" />
+              <point x="222.67500000000007" y="871.0" />
+              <point x="28.5" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.GameObject" target="game.Holder">
+              <point x="50.571428571428555" y="14.5" />
+              <point x="1338.7871206555064" y="59.0" />
+              <point x="1712.261181034728" y="59.0" />
+              <point x="1712.261181034728" y="1258.0" />
+              <point x="730.4069698228134" y="1258.0" />
+              <point x="41.53846153846143" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.BlastCenter" target="game.GameObject.Object.Blast.Blast">
+              <point x="0.0" y="-14.5" />
+              <point x="1481.3984466841293" y="376.0" />
+              <point x="1276.054580972967" y="376.0" />
+              <point x="33.200000000000045" y="14.5" />
+            </edge>
+            <edge source="game.Holder" target="game.Game">
+              <point x="-41.53846153846166" y="-14.5" />
+              <point x="647.3300467458903" y="1248.0" />
+              <point x="336.65933773106707" y="1248.0" />
+              <point x="-9.5" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastRight">
+              <point x="0.0" y="-14.5" />
+              <point x="1173.1550467458906" y="455.0" />
+              <point x="1208.8984466841293" y="455.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.GameObject.GameObject">
+              <point x="-46.25" y="-14.5" />
+              <point x="37.0625" y="821.0" />
+              <point x="0.0" y="821.0" />
+              <point x="0.0" y="49.0" />
+              <point x="1237.6442635126496" y="49.0" />
+              <point x="-50.571428571428555" y="14.5" />
+            </edge>
+            <edge source="game.tiles.TileFloor" target="game.tiles.Tile">
+              <point x="27.75" y="14.5" />
+              <point x="83.25" y="1574.0" />
+              <point x="74.5" y="1574.0" />
+              <point x="19.0" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Individual" target="game.graphics.Animation">
+              <point x="-29.5" y="-14.5" />
+              <point x="665.7097397031256" y="148.0" />
+              <point x="317.63512250830513" y="148.0" />
+              <point x="46.25" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Smart" target="game.graphics.Animation">
+              <point x="-31.125" y="-14.5" />
+              <point x="266.15600828435197" y="564.0" />
+              <point x="243.63512250830513" y="564.0" />
+              <point x="-27.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Bomberman" target="game.GameObject.Object.Bomb">
+              <point x="37.000000000000114" y="-14.5" />
+              <point x="755.7341609698436" y="564.0" />
+              <point x="1154.1550467458906" y="564.0" />
+              <point x="-19.0" y="14.5" />
+            </edge>
+            <edge source="game.Controller.Keyboard" target="game.Controller.Action">
+              <point x="0.0" y="-14.5" />
+              <point x="379.25833333333344" y="861.0" />
+              <point x="412.67500000000007" y="861.0" />
+              <point x="-22.5" y="14.5" />
+            </edge>
+            <edge source="game.Controller.MenuKey" target="game.Controller.MenuAction">
+              <point x="-24.25" y="-14.5" />
+              <point x="45.25" y="752.0" />
+              <point x="40.0" y="752.0" />
+              <point x="-29.5" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.Holder">
+              <point x="9.5" y="14.5" />
+              <point x="355.65933773106707" y="1238.0" />
+              <point x="654.2531236689674" y="1238.0" />
+              <point x="-34.61538461538453" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Object.Blast.BlastCenter">
+              <point x="21.714285714285666" y="-14.5" />
+              <point x="1194.869332460176" y="475.0" />
+              <point x="1481.3984466841293" y="475.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.MenuState" target="game.states.GameState">
+              <point x="-41.625" y="-14.5" />
+              <point x="88.5625" y="980.0" />
+              <point x="83.3125" y="980.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.Individual.Smart">
+              <point x="-29.049999999999955" y="-14.5" />
+              <point x="575.3573717948718" y="742.0" />
+              <point x="318.03100828435197" y="742.0" />
+              <point x="20.75" y="14.5" />
+            </edge>
+            <edge source="game.Node" target="game.Holder">
+              <point x="0.0" y="14.5" />
+              <point x="561.1323717948717" y="386.0" />
+              <point x="524.5083333333334" y="386.0" />
+              <point x="524.5083333333334" y="1208.0" />
+              <point x="675.0223544381981" y="1208.0" />
+              <point x="-13.846153846153811" y="-14.5" />
+            </edge>
+            <edge source="game.states.GameState" target="game.states.State">
+              <point x="-37.0" y="14.5" />
+              <point x="46.3125" y="980.0" />
+              <point x="37.3125" y="980.0" />
+              <point x="37.3125" y="1347.0" />
+              <point x="147.57267495101848" y="1347.0" />
+              <point x="-33.200000000000045" y="-14.5" />
+            </edge>
+            <edge source="game.World" target="game.GameObject.Individual.Dall">
+              <point x="-37.34999999999991" y="-14.5" />
+              <point x="567.0573717948719" y="752.0" />
+              <point x="246.69762250830513" y="752.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Monster" target="game.GameObject.Individual.Individual">
+              <point x="12.125" y="-14.5" />
+              <point x="453.57262250830513" y="386.0" />
+              <point x="460.88333333333344" y="386.0" />
+              <point x="460.88333333333344" y="297.0" />
+              <point x="650.9597397031256" y="297.0" />
+              <point x="-44.25" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.Collision">
+              <point x="34.200000000000045" y="-14.5" />
+              <point x="380.3593377310671" y="1099.0" />
+              <point x="588.1573717948719" y="1099.0" />
+              <point x="-37.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.Item" target="game.GameObject.Object.Blast.Blast">
+              <point x="15.200000000000045" y="14.5" />
+              <point x="1284.4556254791723" y="168.0" />
+              <point x="1293.2056254791723" y="168.0" />
+              <point x="1293.2056254791723" y="267.0" />
+              <point x="1252.076803195189" y="267.0" />
+              <point x="9.222222222222172" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.BlastDown" target="game.GameObject.Object.Blast.Blast">
+              <point x="0.0" y="-14.5" />
+              <point x="1343.3984466841293" y="386.0" />
+              <point x="1259.454580972967" y="386.0" />
+              <point x="16.600000000000023" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Object" target="game.GameObject.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="1645.761181034728" y="79.0" />
+              <point x="1305.072834941221" y="79.0" />
+              <point x="16.85714285714289" y="14.5" />
+            </edge>
+            <edge source="game.tiles.TileWall" target="game.tiles.Tile">
+              <point x="-26.0" y="-14.5" />
+              <point x="29.5" y="1653.0" />
+              <point x="36.5" y="1653.0" />
+              <point x="-19.0" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.Controller.MenuKey">
+              <point x="-26.59999999999991" y="-14.5" />
+              <point x="319.55933773106716" y="1079.0" />
+              <point x="17.3125" y="1079.0" />
+              <point x="17.3125" y="841.0" />
+              <point x="57.375" y="841.0" />
+              <point x="-12.125" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.GameObject">
+              <point x="-27.66666666666663" y="-14.5" />
+              <point x="1215.1879143063002" y="267.0" />
+              <point x="857.2056254791723" y="267.0" />
+              <point x="857.2056254791723" y="69.0" />
+              <point x="1271.358549226935" y="69.0" />
+              <point x="-16.85714285714289" y="14.5" />
+            </edge>
+            <edge source="game.tiles.Tile" target="game.tiles.TileWall">
+              <point x="19.0" y="14.5" />
+              <point x="74.5" y="1653.0" />
+              <point x="81.5" y="1653.0" />
+              <point x="26.0" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.Holder">
+              <point x="19.0" y="14.5" />
+              <point x="1192.1550467458906" y="1248.0" />
+              <point x="723.4838928997365" y="1248.0" />
+              <point x="34.61538461538453" y="-14.5" />
+            </edge>
+            <edge source="game.GameObject.GameObjectManager" target="game.GameObject.Individual.Bomberman">
+              <point x="-41.75" y="-14.5" />
+              <point x="834.0540852074289" y="633.0" />
+              <point x="755.7341609698436" y="633.0" />
+              <point x="37.000000000000114" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Individual.Individual">
+              <point x="-36.888888888888914" y="-14.5" />
+              <point x="1205.965692084078" y="277.0" />
+              <point x="739.4597397031256" y="277.0" />
+              <point x="44.25" y="14.5" />
+            </edge>
+            <edge source="game.states.MenuState" target="game.View">
+              <point x="13.875" y="-14.5" />
+              <point x="144.0625" y="970.0" />
+              <point x="173.8125" y="970.0" />
+              <point x="173.8125" y="871.0" />
+              <point x="184.67500000000007" y="871.0" />
+              <point x="-9.5" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.SpeedBoost">
+              <point x="-9.222222222222172" y="-14.5" />
+              <point x="1233.6323587507447" y="247.0" />
+              <point x="1057.7056254791723" y="247.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Ballons" target="game.GameObject.Individual.Monster">
+              <point x="24.25" y="-14.5" />
+              <point x="347.69762250830513" y="485.0" />
+              <point x="441.44762250830513" y="485.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.states.SettingState" target="game.states.State">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Dall" target="game.graphics.Animation">
+              <point x="-19.0" y="-14.5" />
+              <point x="227.69762250830513" y="168.0" />
+              <point x="225.13512250830513" y="168.0" />
+              <point x="-46.25" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Bomb" target="game.GameObject.Individual.Individual">
+              <point x="-32.571428571428555" y="-14.5" />
+              <point x="1140.583618174462" y="485.0" />
+              <point x="756.7050467458904" y="485.0" />
+              <point x="756.7050467458904" y="287.0" />
+              <point x="709.9597397031256" y="287.0" />
+              <point x="14.75" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.Portal">
+              <point x="36.888888888888914" y="-14.5" />
+              <point x="1279.7434698618558" y="297.0" />
+              <point x="1480.7056254791723" y="297.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.Holder" target="game.World">
+              <point x="13.846153846153811" y="-14.5" />
+              <point x="702.7146621305058" y="1168.0" />
+              <point x="691.1573717948718" y="1168.0" />
+              <point x="691.1573717948718" y="901.0" />
+              <point x="635.5323717948718" y="901.0" />
+              <point x="31.125" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.BlastUp" target="game.GameObject.Object.Blast.Blast">
+              <point x="0.0" y="-14.5" />
+              <point x="1081.3984466841293" y="376.0" />
+              <point x="1226.2545809729668" y="376.0" />
+              <point x="-16.600000000000023" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.Blast.Blast" target="game.GameObject.Object.item.BombRangeBoost">
+              <point x="0.0" y="-14.5" />
+              <point x="1242.854580972967" y="237.0" />
+              <point x="1209.7056254791723" y="237.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Object.item.BombBoost" target="game.GameObject.Object.item.Item">
+              <point x="0.0" y="-14.5" />
+              <point x="923.2056254791723" y="148.0" />
+              <point x="1238.8556254791724" y="148.0" />
+              <point x="-30.399999999999977" y="14.5" />
+            </edge>
+            <edge source="game.Game" target="game.states.MenuState">
+              <point x="-19.0" y="-14.5" />
+              <point x="327.15933773106707" y="1069.0" />
+              <point x="167.1875" y="1069.0" />
+              <point x="37.0" y="14.5" />
+            </edge>
+            <edge source="game.GameObject.Individual.Dall" target="game.GameObject.Individual.Smart">
+              <point x="19.0" y="-14.5" />
+              <point x="265.69762250830513" y="653.0" />
+              <point x="276.53100828435197" y="653.0" />
+              <point x="-20.75" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.35487593768032316" x="856.5" y="853.5" />
+          <SelectedNodes>
+            <node>game.Controller.AIAction</node>
+            <node>game.GameObject.Individual.Directions</node>
+            <node>game.GameObject.Individual.Bomberman</node>
+            <node>game.Constants</node>
+            <node>game.GameObject.Object.Blast.BlastRight</node>
+            <node>game.GameObject.GameObject</node>
+            <node>game.Utilities.Utilities</node>
+            <node>game.GameObject.Individual.Individual</node>
+            <node>game.GameObject.Individual.Dall</node>
+            <node>game.Holder</node>
+            <node>game.GameObject.Object.item.LifeBoost</node>
+            <node>game.Controller.Keyboard</node>
+            <node>game.GameObject.Object.item.BombRangeBoost</node>
+            <node>game.GameObject.Object.item.SpeedBoost</node>
+            <node>game.GameObject.Individual.Smart</node>
+            <node>game.Controller.MenuAction</node>
+            <node>game.states.SettingState</node>
+            <node>game.GameObject.Object.item.BombBoost</node>
+            <node>game.GameObject.GameObjectManager</node>
+            <node>game.View</node>
+            <node>game.GameObject.Object.Blast.BlastUp</node>
+            <node>game.tiles.TileFloor</node>
+            <node>game.GameObject.Object.Blast.BlastLeft</node>
+            <node>game.GameObject.Object.Bomb</node>
+            <node>game.graphics.SpriteSheet</node>
+            <node>game.Controller.MenuKey</node>
+            <node>game.states.MenuState</node>
+            <node>game.graphics.ImageLoader</node>
+            <node>game.Controller.AIController</node>
+            <node>game.tiles.TileWall</node>
+            <node>game.resources.Assets</node>
+            <node>game.graphics.Animation</node>
+            <node>game.GameObject.Object.item.Item</node>
+            <node>game.GameObject.Object.Portal</node>
+            <node>game.GameObject.Individual.Monster</node>
+            <node>game.World</node>
+            <node>game.graphics.Camera</node>
+            <node>game.GameObject.Object.Blast.BlastDown</node>
+            <node>game.states.State</node>
+            <node>game.GameObject.Object.Blast.Blast</node>
+            <node>game.Controller.Action</node>
+            <node>game.Game</node>
+            <node>game.tiles.Tile</node>
+            <node>game.Collision</node>
+            <node>game.Controller.Controller</node>
+            <node>game.GameObject.Individual.Ballons</node>
+            <node>game.Node</node>
+            <node>game.GameObject.Object.Brick</node>
+            <node>game.GameObject.Object.Object</node>
+            <node>game.states.GameState</node>
+            <node>game.SoundManager</node>
+            <node>game.GameObject.Object.Blast.BlastCenter</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Bomberman(New)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
